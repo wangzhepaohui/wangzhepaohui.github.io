@@ -1,37 +1,20 @@
-## 来了就来了吧
-
-You can use the [editor on GitHub](https://github.com/wangzhepaohui/wangzhepaohui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## 你好呀，我的朋友，我叫陆嘉顺
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+下面是我的联系方式
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+主要用的最多的还是微信 QQ B站 知乎
+1. Wechat:1056987039
+2. QQ:1056987039
+3. B站：SixGod呀
+4. 知乎:王者炮恢
+5. Tel:13126631939
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [当然是多了解我了](https://space.bilibili.com/8005350/).
 
-### Jekyll Themes
+### 目前还在上学喔
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangzhepaohui/wangzhepaohui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 梦想是表演的程序员吧
